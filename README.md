@@ -9,12 +9,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working as a **Full Stack Developer** at **iCompaas**
+- 🔭 I’m currently working as a **Full Stack Developer** at **Immersivevision Labz**
 - 🌱 Exploring **Generative AI**, **LangChain**, and **LLMs**
 - 🧠 Interested in **Scalable System Design**, **Cloud Deployments**, and **Dev Automation**
-- 🛠️ Projects in **FastAPI**, **ReactJS**, **Node.js**, and **Dockerized Microservices**
+- 🛠️ Projects in **FastAPI**, **Flask**, **ReactJS**, **Node.js**, and **Dockerized Microservices**
 - 📄 Published **2 research papers** on **Brain Tumor Detection using MRI**
-- 💬 Ask me about: Python, Docker, FastAPI, ReactJS, AWS, MySQL
+- 💬 Ask me about: Python, Docker, FastAPI, Flask, Django, ReactJS, AWS, MySQL, Postgres
 
 ---
 
